@@ -1,3 +1,3 @@
 # AIRDROP Sol
 
-Simple web app to demo airgropping on Solana.
+Simple web app to demo airdropping on Solana.
